@@ -1,2 +1,4 @@
 # Exploratory-World-Population-analysis
-An  Exploratory world analysis (EDA) on word populations from decades ago.
+An  Exploratory analysis (EDA) on world populations from decades ago.
+
+##

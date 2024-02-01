@@ -1,4 +1,4 @@
-# Exploratory-World-Population-analysis
+# Exploratory-World-Population-Analysis
 An  Exploratory analysis (EDA) on world populations from decades ago.
 
 ## Table of Contents
